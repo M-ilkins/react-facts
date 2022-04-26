@@ -1,5 +1,5 @@
 #React Facts project
-Currently using CodeCademy, Docs, and YouTube (in this case) FreeCodeCamp React
+Currently using Codecademy, Docs, and YouTube (in this case) FreeCodeCamp React
 video course. Just getting more familiar with React and understanding components! 
 A simple static site (: 
 
