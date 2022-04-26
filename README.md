@@ -1,3 +1,12 @@
+#React Facts project
+Currently using CodeCademy, Docs, and YouTube (in this case) FreeCodeCamp React
+video course. Just getting more familiar with React and understanding components! 
+A simple static site (: 
+
+
+#Everything below this line was inputted by create-react-app
+------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
